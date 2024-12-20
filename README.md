@@ -1,2 +1,2 @@
-# CodeForces
-Compilation of problems solved on Codeforces. 
+# Competitive Programming
+Compilation of problems solved on Leetcode, Codeforces. 
